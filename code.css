@@ -1,0 +1,79 @@
+body{
+ margin: 0;
+ padding: 0;
+}
+.nav {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ /* justify-content: space-between; */
+ background-color: black;
+ padding-left: 10px;
+ padding-right: 10px;
+ height: 4vh;
+ 
+}
+.nav h1{
+ font-size: 0.8em;
+ color: white;
+ padding: 20px;
+}
+.nav i{
+ color: white;
+ padding: 20px;
+}
+.mains1{
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(248, 240, 229);
+  height: 100%;
+  border: 10px black;
+}
+.con{
+ background-color:white;
+ width: 60%;
+ height: 100%;
+ padding: 10px;
+}
+.begg{
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.beg{
+ text-align: center;
+ width: 70%;
+ padding: 40px;
+}
+.beg h1{
+ font-size: 3em;
+ padding: 10px;
+}
+.part1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.part2{
+ width: 55%;
+ padding: 50px;
+
+}
+.part2 h2{
+ text-transform: b;
+}
+.bott{
+display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.bott1{
+ text-align: center;
+ width: 70%;
+ padding: 30px;
+}
+.bott1 h1{
+ font-size: 3em;
+  padding: 10px;
+}
